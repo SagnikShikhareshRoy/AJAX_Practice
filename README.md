@@ -1,2 +1,2 @@
 # AJAX_Practice
-Ajax practice file
+Ajax practice files
